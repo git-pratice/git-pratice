@@ -1,0 +1,3 @@
+# git-pratice
+
+hello git
